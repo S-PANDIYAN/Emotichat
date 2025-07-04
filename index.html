@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emotion Chatbot</title>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+  <h1>Emotion Chatbot</h1>
+  <input type="text" id="userInput" placeholder="Type a message...">
+  <button onclick="sendMessage()">Send</button>
+  <p id="botResponse"></p>
+</body>
+</html>

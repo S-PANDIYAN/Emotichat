@@ -1,0 +1,6 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<category>
+  <pattern>EMOTION ANGRY</pattern>
+  <template>I understand you're upset. Let's take a deep breath together.</template>
+</category>
+</aiml>
